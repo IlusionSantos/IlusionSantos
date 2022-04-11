@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Ilusion Santos, welcome to my Ilushions World! 😏 Have fun! 😁
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlusionSantos)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IlusionSantos/IlusionSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
