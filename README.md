@@ -1,5 +1,7 @@
 ### Hi I'm Ilusion Santos, welcome to my Ilushions World! 😏 Have fun! 😁
 
+> We're all mad here
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlusionSantos)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
